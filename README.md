@@ -1,5 +1,9 @@
 # RickMortyApp
 
+Application demo on a free server.
+https://ss-api-rick-y-morty.netlify.app
+The application starts with “SS” in his name, since they are the initials of my name "Sergio Suárez"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
 ## Development server
